@@ -2,7 +2,7 @@
 
 # 🖥️ Trabajo Práctico Integrador (TPI) - Debian 12
 
-<img width="1365" height="768" alt="image_42fa9190" src="https://github.com/user-attachments/assets/1985b2c6-8149-456c-a284-b0f6011bdde7" />
+<img width="1365" height="768" alt="image_42fa9190" src="https://github.com/user-attachments/assets/5cc2af05-1321-4aea-82b6-e208bd241773" />
 
 
 [![Debian Version](https://img.shields.io/badge/OS-Debian%2012%20Bookworm-A80030?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
